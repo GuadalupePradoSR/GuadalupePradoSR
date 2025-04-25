@@ -83,14 +83,6 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
 
 <img 
     align="left" 
-    alt="SQL" 
-    title="SQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/SQL/SQL-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Elixir" 
     title="Elixir" 
     width="30px" 
