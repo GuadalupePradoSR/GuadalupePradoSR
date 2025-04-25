@@ -117,7 +117,7 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
     title="Unity" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/elixir-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
 />
 
 <img 
@@ -126,7 +126,7 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
     title="Blender" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/elixir-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
 />
 
 <br/>
