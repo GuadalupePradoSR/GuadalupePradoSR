@@ -9,7 +9,7 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
     <a href="https://www.youtube.com/@GuadalupePrado-nl1cs">
     <img 
       alt="YouTube"
-      src="https://custom-icon-badges.demolab.com/youtube/channel/Subscribe/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
     />
   </a>
   
