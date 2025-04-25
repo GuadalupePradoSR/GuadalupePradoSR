@@ -127,6 +127,33 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="SQLite" 
+    title="SQLite" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="VS Code" 
+    title="VS Code" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JetBrains Rider" 
+    title="JetBrains Rider" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rider/rider-original.svg" 
+/>
+
 <br/>
 <br/>
 
