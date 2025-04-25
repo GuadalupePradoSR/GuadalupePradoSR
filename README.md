@@ -20,7 +20,7 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
     />
   </a>
   
-  <a href="https://www.linkedin.com/in/guadalupeprado/">
+  <a href="https://www.linkedin.com/in/guadalupe-prado-506070269/">
     <img 
       src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
       alt="LinkedIn"
