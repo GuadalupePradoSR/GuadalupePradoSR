@@ -11,45 +11,7 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
   <a href = "mailto:guadalupepradosr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guadalupe-prado-506070269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://portfolio-guadalupes-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Website-%2FF7F00?style=for-the-badge&logo=website&logoColor=white" target="_blank"></a> 
-  
 </div>
-
-<p align="left">
-    <a href="https://www.youtube.com/@GuadalupePrado-nl1cs">
-    <img 
-      alt="YouTube"
-      src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-    />
-  </a>
-  
-  <a href="https://portfolio-guadalupes-projects.vercel.app/">
-    <img 
-      src="https://img.shields.io/badge/Website-Visit%20Now-FF7F00?style=for-the-badge&logo=google-chrome&logoColor=white" 
-      alt="Website"
-    />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/guadalupe-prado-506070269/">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-    />
-  </a>
-    <a href="https://github.com/GuadalupePradoSR?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total Stars" 
-            title="GitHub Total Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/GuadalupePradoSR?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=Stars"
-        />
-    </a>
-    <a href="https://github.com/GuadalupePradoSR?tab=followers">
-        <img 
-            alt="GitHub Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/GuadalupePradoSR?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a>
-</p>
 
 ---
 
