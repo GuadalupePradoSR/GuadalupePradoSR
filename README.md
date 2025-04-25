@@ -7,26 +7,25 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
 
 <p align="left">
     <a href="https://www.youtube.com/@GuadalupePrado-nl1cs">
-        <img 
-            alt="Subscribe to my YouTube channel" 
-            title="Subscribe to my channel" 
-            src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-        />
-    </a>
-    <a href="https://guadalupeprado.com"> <!-- link para seu site -->
-        <img 
-            alt="Visit my Website" 
-            title="Visit my Website" 
-            src="https://img.shields.io/badge/Website-Visit%20now-FF7F00?style=for-the-badge&logo=google-chrome&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/guadalupe-prado-506070269/"> <!-- link para seu LinkedIn -->
-        <img 
-            alt="Connect on LinkedIn" 
-            title="Connect with me on LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
+    <img 
+      src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
+      alt="YouTube"
+    />
+  </a>
+  
+  <a href="https://guadalupeprado.com">
+    <img 
+      src="https://img.shields.io/badge/Website-Visit%20Now-FF7F00?style=for-the-badge&logo=google-chrome&logoColor=white" 
+      alt="Website"
+    />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/guadalupeprado/">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn"
+    />
+  </a>
     <a href="https://github.com/GuadalupePradoSR?tab=repositories&sort=stargazers">
         <img 
             alt="Total Stars" 
