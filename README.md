@@ -10,17 +10,17 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
         <img 
             alt="Subscribe to my YouTube channel" 
             title="Subscribe to my channel" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Subscribe&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
+            src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
         />
     </a>
-    <a href="https://guadalupeprado.com"> <!-- link para o seu site -->
+    <a href="https://guadalupeprado.com"> <!-- link para seu site -->
         <img 
             alt="Visit my Website" 
             title="Visit my Website" 
-            src="https://img.shields.io/badge/Website-Visit%20now-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"
+            src="https://img.shields.io/badge/Website-Visit%20now-FF7F00?style=for-the-badge&logo=google-chrome&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/guadalupe-prado-506070269/"> <!-- link para o seu LinkedIn -->
+    <a href="https://www.linkedin.com/in/guadalupe-prado-506070269/"> <!-- link para seu LinkedIn -->
         <img 
             alt="Connect on LinkedIn" 
             title="Connect with me on LinkedIn" 
