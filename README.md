@@ -26,6 +26,7 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -34,6 +35,7 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -42,6 +44,7 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Bootstrap" 
@@ -50,6 +53,7 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
@@ -58,6 +62,7 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Python" 
@@ -66,6 +71,7 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Java" 
@@ -74,13 +80,14 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
+
 <img 
     align="left" 
     alt="SQL" 
     title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sql/sql-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/SQL/SQL-original.svg" 
 />
 <img 
     align="left" 
