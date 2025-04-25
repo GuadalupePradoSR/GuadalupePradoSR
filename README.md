@@ -2,14 +2,14 @@
 
 **`Developer and Researcher`**
 
-My name is Guadalupe Prado S. Ribeiro, and I am Brazilian. I completed my high school studies at Colégio Farias Brito. Currently, I am pursuing a degree in Computer Science at the University of Fortaleza - UNIFOR. I am a curious person who loves challenges.  
+My name is Guadalupe Prado S. Ribeiro, and I am Brazilian. I completed my high school studies at Colégio Farias Brito. I am currently a Computer Science undergraduate student at the University of Fortaleza - UNIFOR. I am a curious person who loves challenges.
 I share some of my personal projects on my [YouTube channel](https://www.youtube.com/channel/UCjU4qzXtmGNZ2n-lT7WOkDQ), where I present games developed in Unity and knowledge of mesh, bones, and rigging manipulation in Blender.
 
 <p align="left">
     <a href="https://www.youtube.com/@GuadalupePrado-nl1cs">
     <img 
-      src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" 
       alt="YouTube"
+      src="https://custom-icon-badges.demolab.com/youtube/channel/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
     />
   </a>
   
