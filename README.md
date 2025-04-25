@@ -13,7 +13,7 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
     />
   </a>
   
-  <a href="https://guadalupeprado.com">
+  <a href="https://portfolio-guadalupes-projects.vercel.app/">
     <img 
       src="https://img.shields.io/badge/Website-Visit%20Now-FF7F00?style=for-the-badge&logo=google-chrome&logoColor=white" 
       alt="Website"
