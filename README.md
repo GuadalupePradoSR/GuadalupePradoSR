@@ -110,6 +110,15 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="MySQL" 
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
 <br/>
 <br/>
 
