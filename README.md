@@ -108,6 +108,16 @@ I share some of my personal projects on my [YouTube channel](https://www.youtube
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" 
 />
 
+
+<img 
+    align="left" 
+    alt="Godot" 
+    title="Godot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" 
+/>
+
 <img 
     align="left" 
     alt="Blender" 
